@@ -31,7 +31,7 @@ Stuck Service is a software application that provides a reliable and fast roadsi
   flutter_dotenv<br/>
   
   # video:<br/>
-  https://www.youtube.com/watch?v=Bz9tWBMi8-4
+  https://www.canva.com/design/DAFlzeR0Xjw/zMP337-_Z76qu8b80WtoIA/watch?utm_content=DAFlzeR0Xjw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
   # images:<br/>
   <img src="Stuck_service_images\1.jpg" width=180 height=350>  <img src="Stuck_service_images\2.jpg" width=180 height=350>
